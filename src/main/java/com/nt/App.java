@@ -6,7 +6,7 @@ package com.nt;
 public class App {
     public static void main(String[] args) 
     {
-        string s = "hii";
+        string s = "hello";
         System.out.println("Hello World!");
     }
 }
