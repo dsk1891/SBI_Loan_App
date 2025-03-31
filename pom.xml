@@ -41,8 +41,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-
-  <build>
-    <finalName>myfirst app</finalName>
-  </build>
 </project>
