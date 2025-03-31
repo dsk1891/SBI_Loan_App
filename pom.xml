@@ -43,6 +43,6 @@
   </dependencies>
 
   <build>
-    <finalName>my-app</finalName>
+    <finalName>myfisrt-app</finalName>
   </build>
 </project>
