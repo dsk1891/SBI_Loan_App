@@ -43,6 +43,6 @@
   </dependencies>
 
   <build>
-    <finalName>myfisrt-app</finalName>
+    <finalName>myfirst app</finalName>
   </build>
 </project>
