@@ -13,9 +13,7 @@ public class AppTest {
      * Rigorous Test :-)
      */
     @Test
-    public void shouldAnswerWithTrue() 
-	{	
-		int x = 20;
+    public void shouldAnswerWithTrue() {
         assertTrue(true);
     }
 }
